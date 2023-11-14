@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThanhLucKMA
+- 👋 Hello
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning in HVKTMM
 - 💞️ I'm lonely 
